@@ -1,3 +1,3 @@
 FROM nginx
-MAINTAINER Permander.malik@soprasteria.com
+MAINTAINER Testing
 ADD . /var/www/html
